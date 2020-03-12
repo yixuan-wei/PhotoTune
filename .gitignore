@@ -1,0 +1,21 @@
+.vs/**
+OpenCV/**
+**/x64/**
+**/.vs/**
+PhotoTune/opencv_world411d.dll
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+*.db
+*.opendb
+*.history
+*.suo
+*.TMP
+*.log
+*.cso
